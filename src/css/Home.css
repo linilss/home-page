@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+.header {
+    height: auto;
+}
+
+.house {
+    height: 100vh;
+}
+
+#one {
+    height: 90vh;
+}
+
+.room {
+  min-width: 45%;
+  max-width: 530px;
+    margin: auto;
+    border: 1px solid yellow;
+    height: 90%;
+}
+
+.black {
+  background-color: #212121;
+  color: #F5F5F5;
+}
+
+.white {
+  background-color: #F5F5F5;
+  color: #212121;
+}
+
+.orange {
+  background-color: #FF6F00;
+  color: #4A148C;
+}
+
+#jumbo {
+  background-color: transparent;
+}

@@ -26,3 +26,15 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+#navvv {
+  background-color: #F5F5F5;
+  border-bottom: 1px solid lightgrey;
+  color: #FF6F00;
+}
+.navbar-dark .navbar-brand {
+  color: black;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: grey;
+}
